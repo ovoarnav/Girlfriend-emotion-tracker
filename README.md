@@ -1,5 +1,6 @@
 some notes when u set it up its a bit slow cuz its offline and keeps ur data secure
 when u upload the pdf just click it once it takes a second don't double click the file will crash
+
 💔 Girlfriend Emotion‑Tracker
 Ever wish you could figure out why she’s mad this time? This tool helps you analyze your chat history to detect emotional patterns, explain her feelings, and gradually adapt to your unique relationship dynamic.
 
