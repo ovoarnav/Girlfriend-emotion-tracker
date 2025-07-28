@@ -50,5 +50,4 @@ These messages and their emotional tags are passed to a quantized 7‑billion‑
 
 🙋 Why?
 Because relationships are hard, and we might as well use AI to give us a fighting chance.
-
-Would you like me to turn this into a README.md file now, or tweak anything else before we do?
+Its a bit slow cuz the models are big and offline
